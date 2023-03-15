@@ -1,0 +1,26 @@
+{
+  "name": "react-shop",
+  "version": "1.0.0",
+  "description": "react eshop",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naicolsx/react-shop.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Natalia <naicolsx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naicolsx/react-shop/issues"
+  },
+  "homepage": "https://github.com/naicolsx/react-shop#readme",
+  "dependencies": {
+    "react-dom": "^18.2.0"
+  }
+}
